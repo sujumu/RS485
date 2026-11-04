@@ -1,4 +1,5 @@
 # RS485 Multi-Node Communication and Control
+샘플 코드 참고 : https://bota.tistory.com/category/%EB%85%B9%EC%B9%B8%EB%8B%A4
 
 Arduino와 MAX485 모듈을 활용하여 다중 노드 간 RS485 통신 및 원격 장치 제어 시스템을 구현한 프로젝트입니다.
 
